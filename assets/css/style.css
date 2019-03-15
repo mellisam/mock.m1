@@ -1,0 +1,100 @@
+h1{
+font-size: 90px;
+    color:black;
+        
+}
+
+navs{
+    width: auto;
+    height: 50px;
+}
+
+
+
+		ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #111;
+}
+#main {margin-left: 120px}
+
+li {
+  float: left;
+}
+#social{
+    padding: 14px 16px;
+    font-size: 70px;
+}
+li a {
+  display: block;
+  color:firebrick;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color:white;
+}
+
+nav {
+    align-items: center;
+    
+}
+#namebox { align-content: center;
+    
+}
+.w3-section{
+    color: firebrick;
+    font-size: 20px;
+}
+h4{
+    color: firebrick;
+    font-size: 70px;
+}
+#social{
+    
+}
+
+
+
+contact{
+    text-align: center;
+}
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:firebrick;
+}
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 50px 50px;
+  text-decoration: none;
+  font-size:50px
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color:firebrick;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+     img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+         border-radius: 50%;
+}
+
